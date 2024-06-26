@@ -1,0 +1,7 @@
+fastapi
+pyjwt
+passlib
+bcrypt
+sqlalchemy
+python-multipart
+pymongo[srv]==3.6
